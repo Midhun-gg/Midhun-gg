@@ -2,8 +2,8 @@
 <h3 align="center">AI/ML Engineer | Computer Vision & LLM Systems | Backend (FastAPI)</h3>
 
 <p align="center">
-  <a href="mailto:midhungullapalli9@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a> •
+  <a href="mailto:midhun.17g@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/midhun-gullapalli/>LinkedIn"</a> •
   <a href="https://github.com/Midhun-gg">GitHub</a>
 </p>
 
