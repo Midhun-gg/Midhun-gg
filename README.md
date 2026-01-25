@@ -1,5 +1,7 @@
-**Hi guys:**
-I’m a CSE (AI) student who teaches machines to talk, see, and think—while still debugging at 3 a.m. like a professional idiot.
+## Hi guys 👋
+
+I’m a **CSE (AI) student** who teaches machines to talk, see, and think —  
+while still debugging at **3 a.m.** like a professional idiot.
 
 
 Socials
@@ -18,5 +20,3 @@ Tech Stack:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
