@@ -4,7 +4,7 @@ I’m a **CSE (AI) student** who teaches machines to talk, see, and think —  w
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=BD93F9&width=800&lines=AI%2FML+Engineer;Computer+Vision+%26+LLM+Systems;Python%2C+FastAPI%2C+AWS)
 <img align="center" width="220" src="https://media.giphy.com/media/13rQ7rrTrvZXlm/giphy.gif" />
 
-<img 
+<img align="right"
   src="https://raw.githubusercontent.com/Midhun-gg/Midhun-gg/main/profile-3d-contrib/profile-gitblock.svg"
   width="500"
 />
