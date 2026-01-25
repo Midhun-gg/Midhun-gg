@@ -1,111 +1,21 @@
-<h1 align="center">Hi, I’m Midhun 👋</h1>
-<h3 align="center">AI/ML Engineer | Computer Vision & LLM Systems | Backend (FastAPI)</h3>
+# 💫 About Me:
+I’m a CSE (AI) student who teaches machines to talk, see, and think—while still debugging at 3 a.m. like a professional idiot.
 
-<p align="center">
-  <a href="mailto:midhun.17g@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/midhun-gullapalli/>LinkedIn"</a> •
-  <a href="https://github.com/Midhun-gg">GitHub</a>
-</p>
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ijustsleepfordays) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:midhungullapalli9@gmail.com) 
 
-## 👨‍💻 Professional Summary
-I am a **B.Tech CSE (AI) student at VIT-AP** with hands-on experience building **end-to-end AI systems** involving
-LLMs, speech pipelines, computer vision, and scalable backends.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username= Midhun-gg&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user= Midhun-gg&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username= Midhun-gg&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-My work emphasizes:
-- **Production-oriented AI systems**
-- **FastAPI-based backend services**
-- **LLM + RAG architectures**
-- **Real-time CV pipelines**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
+[![](https://visitcount.itsvg.in/api?id= Midhun-gg&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🏢 Internship Experience
-
-### **AI/ML Intern — Transpoze Labs Pvt. Ltd. (Hyderabad)**  
-*May 2025 – July 2025*
-
-- Annotated and validated datasets for conversational AI model training  
-- Collaborated on building an **AI chatbot for engaging user conversations**
-- Developed a **speech-driven conversational chatbot** using:
-  - Ollama (LLM)
-  - Whisper (Speech-to-Text)
-  - Microsoft Edge TTS (Text-to-Speech)
-  - FastAPI as middleware
-- Designed an **interactive avatar system** that dynamically adapts visuals based on speech pitch
-
-**Tech:** Python, FastAPI, Ollama, Whisper, Edge TTS
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 **DocuMind — Intelligent Document Q&A (RAG)**
-- Built a **Retrieval-Augmented Generation (RAG)** system for querying uploaded documents
-- Implemented **semantic search** using ChromaDB and Sentence Transformers
-- Integrated **local LLM inference** via Ollama (llama3.1:8b) — zero API cost
-- Supports PDF, DOCX, TXT uploads with automated text extraction
-
-**Tech:** Streamlit, ChromaDB, Ollama, PyPDF2, python-docx  
-🔗 Repo: *add link*
-
----
-
-### 🏥 **Appointment Show / No-Show Prediction**
-- Predicted appointment attendance using Kaggle’s medical appointment dataset
-- Applied **ensemble learning** (Random Forest, LightGBM)
-- Handled class imbalance using **SMOTEENN**
-- Designed a **replacement suggestion system** for no-show slots
-
-**Tech:** Python, LightGBM (GOSS), Random Forest, scikit-learn  
-🔗 Repo: *add link*
-
----
-
-### 👁️ **OmniCam — Real-Time Face Recognition System**
-- Built a **real-time face recognition and intrusion detection system**
-- Implemented **FastAPI backend with WebSocket alerts**
-- Developed a **React dashboard** for live feeds and logs
-- Integrated **Supabase storage** and **Telegram bot alerts**
-
-**Tech:** Python, OpenCV, DeepFace (SFace), FastAPI, WebSockets, React, Supabase  
-🔗 Repo: *add link*
-
----
-
-### 🎙️ **Speech-Based Conversational Bot**
-- Full **voice → LLM → voice** conversational pipeline
-- Multi-turn dialogue support with stored conversation history
-
-**Tech:** FastAPI, Whisper, Ollama, Edge TTS  
-🔗 Repo: *add link*
-
----
-
-## 🛠️ Technical Skills
-
-**Languages:** Python, Java, SQL, C++, R  
-**AI / ML:** Machine Learning, Deep Learning, Ensemble Models, RAG, LLMs  
-**Computer Vision:** OpenCV, DeepFace  
-**Backend:** FastAPI, REST APIs, WebSockets  
-**Frontend:** React, Streamlit, HTML, CSS  
-**Cloud & DevOps:** AWS (EC2, S3, IAM), Docker  
-**Tools:** Git, Ollama, ChromaDB, StarUML  
-**Core CS:** DSA, OOP  
-**IoT:** NodeMCU, Arduino, Raspberry Pi  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Midhun-gg&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 📫 Contact
-📧 midhungullapalli9@gmail.com  
-📍 Vijayawada, India  
-
-> Actively building AI systems and open to internships, research, and serious engineering roles.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
