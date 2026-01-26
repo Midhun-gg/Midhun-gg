@@ -6,7 +6,7 @@ I’m a **CSE (AI) student** who teaches machines to talk, see, and think —  w
 
 ## 3D LEGO Contributions
 
-<img 
+<img align="center"
   src="https://raw.githubusercontent.com/Midhun-gg/Midhun-gg/main/profile-3d-contrib/profile-gitblock.svg"
   width="500"
 />
