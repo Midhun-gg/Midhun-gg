@@ -20,8 +20,6 @@ I’m a **CSE (AI) student** who teaches machines to talk, see, and think —  w
 # GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Midhun-gg&theme=dracula&hide_border=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=Midhun-gg&theme=dracula&hide_border=true&layout=compact)
 
-
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 
