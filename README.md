@@ -1,25 +1,90 @@
-## Hi guys 👋
-
-I’m a **CSE (AI) student** who teaches machines to talk, see, and think —  while still debugging at **3 a.m.** like a professional idiot.
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=BD93F9&width=800&lines=AI%2FML+Engineer;Computer+Vision+%26+LLM+Systems;Python%2C+FastAPI%2C+AWS)
-<img  width="220" src="https://media.giphy.com/media/13rQ7rrTrvZXlm/giphy.gif" />
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ijustsleepfordays) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/midhun-gullapalli) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:midhungullapalli9@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Midhun-gg&color=blueviolet)
+<h1 align="center">This is Midhun.</h1>
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Midhun-gg/Midhun-gg/main/profile-3d-contrib/profile-night-view.svg"
-    width="500"
-  />
+  AI Systems Engineer • Backend Developer • Intelligent Systems Builder
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Optimizing+LLM+Pipelines;Researching+%26+Reinforcement+Learning;Building+Scalable+Real+World+AI+Systems" />
+</p>
 
-## Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-# GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Midhun-gg&theme=dracula&hide_border=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=Midhun-gg&theme=dracula&hide_border=true&layout=compact)
+## About Me
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+Computer Science (AI) student building production-grade intelligent systems that combine backend engineering and applied machine learning.
 
+Core focus:
+- LLM and conversational AI systems  
+- Computer vision & real-time monitoring  
+- Scalable backend architecture  
 
+Currently exploring cloud-native AI deployment and distributed intelligent systems.
+
+## Skills & Tools
+
+<p align="center">
+  
+<img src="https://skillicons.dev/icons?i=python,java,js,react,fastapi,nodejs,mysql,supabase,aws,docker,git,arduino,opencv,tensorflow&perline=7" />
+
+</p>
+
+## Professional Experience
+
+**AI/ML Intern — Transpoze Labs Pvt. Ltd.**  
+*May 2025 – July 2025 | Hyderabad*
+- Built speech-driven conversational AI using LLMs, Whisper and FastAPI
+- Containerized ML services using Docker  
+- Contributed to real-time AI system testing and optimization  
+
+## Featured Projects
+
+### 🗣 Voice-Based AI Chatbot  
+Whisper + LLM (Ollama/LLaMA) + FastAPI  
+Speech-driven conversational AI with real-time voice interaction, contextual memory, and end-to-end STT → LLM → TTS pipeline.
+
+### 📊 Appointment Show/No-Show Prediction  
+Python + LightGBM + Random Forest  
+Ensemble ML model predicting patient appointment outcomes with SMOTEENN imbalance handling and replacement suggestion system.
+
+### 👁 OmniCam — Real-Time Face Recognition  
+OpenCV + DeepFace + FastAPI + React  
+Low-latency face recognition system with live alerts, React monitoring dashboard, Telegram notifications, and cloud-based identity storage.
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Midhun-gg&theme=tokyo-night&hide_border=true"/>
+</p>
+
+## Certifications
+
+- **Mathematics for Machine Learning** — Imperial College London  
+  Focus: Linear Algebra, Multivariate Calculus, PCA & ML foundations  
+
+- **AWS Cloud Practitioner**  
+  Focus: Scalable and highly available cloud architectures (EC2, S3, RDS, VPC)  
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Midhun-gg&theme=dracula&hide_border=true" />
+</p>
+
+## Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/midhun-gullapalli">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:midhungullapalli9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  Open to collaborations, internships, and building impactful AI-driven systems.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Midhun-gg&color=0A66C2&style=for-the-badge"/>
+</p>
