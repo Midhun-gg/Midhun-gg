@@ -78,7 +78,10 @@ Low-latency face recognition system with live alerts, React monitoring dashboard
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Midhun-gg&theme=tokyo-night&hide_border=true"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Midhun-gg/Midhun-gg/output/github-snake-dark.svg" />
+    <img alt="contribution graph" src="https://raw.githubusercontent.com/Midhun-gg/Midhun-gg/output/github-snake.svg" />
+  </picture>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
